@@ -10,6 +10,7 @@ This application works under the principle of secured encryption providing multi
 ## Screenshot's
 ![alt text](https://github.com/sowmyaKathula/SecureChatApplication/blob/master/sc/1.png)
 ![alt text](https://github.com/sowmyaKathula/SecureChatApplication/blob/master/sc/2.png)
+![alt text](https://github.com/sowmyaKathula/SecureChatApplication/blob/master/sc/5.png)
 ![alt text](https://github.com/sowmyaKathula/SecureChatApplication/blob/master/sc/3.png)
 
 
