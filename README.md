@@ -1,4 +1,4 @@
-## SecureChatApplication
+<h1>SecureChatApplication</h1>
 ![alt text](https://github.com/sowmyaKathula/SecureChatApplication/blob/master/sc/Capture.PNG)<br/>
 Code repository for secure chat application
 
